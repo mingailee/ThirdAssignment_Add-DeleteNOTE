@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">TextCounterSample</string>
     <string name="btn_calculate_caption">Calculate</string>
-    <string name="char_selection">Char</string>
-    <string name="word_selection">Char</string>
-    <string name="number_selection">Char</string>
+    <string name="CharsSelection">Chars</string>
+    <string name="WordsSelection">Words</string>
+    <string name="NumbersSelection">Numbers</string>
     <string-array name="planets_array">
         <item>Chars</item>
         <item>Words</item>
