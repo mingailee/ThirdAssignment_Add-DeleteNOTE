@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">Third assignment template</string>
-    <string name="open_receiver_activity">Open new activity</string>
-    <string name="btn_add">Add note</string>
-    <string name="type_note_here">Type note here</string>
+    <string name="app_name">TextCounterSample</string>
+    <string name="btn_calculate_caption">Calculate</string>
+    <string name="CharsSelection">Chars</string>
+    <string name="WordsSelection">Words</string>
+    <string name="NumbersSelection">Numbers</string>
+    <string-array name="planets_array">
+        <item>Chars</item>
+        <item>Words</item>
+        <item>Numbers</item>
+    </string-array>
 </resources>
